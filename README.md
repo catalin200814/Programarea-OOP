@@ -1,6 +1,6 @@
 # 💻 Programare Orientată pe Obiecte (OOP)
 
-## Un omagiu adus doamnei profesoare **Moraru Magdalena**
+## Un omagiu adus domnisoarei profesoare **Moraru Magdalena**
 
 ---
 
